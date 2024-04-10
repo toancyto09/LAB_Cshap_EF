@@ -1,0 +1,10 @@
+C:\Users\HUYNH VAN TOAN\source\repos\LAB_EF_HuynhVanToan\LAB_EF_HuynhVanToan\bin\Debug\LAB_EF_HuynhVanToan.exe.config
+C:\Users\HUYNH VAN TOAN\source\repos\LAB_EF_HuynhVanToan\LAB_EF_HuynhVanToan\bin\Debug\LAB_EF_HuynhVanToan.exe
+C:\Users\HUYNH VAN TOAN\source\repos\LAB_EF_HuynhVanToan\LAB_EF_HuynhVanToan\bin\Debug\LAB_EF_HuynhVanToan.pdb
+C:\Users\HUYNH VAN TOAN\source\repos\LAB_EF_HuynhVanToan\LAB_EF_HuynhVanToan\bin\Debug\EntityFramework.dll
+C:\Users\HUYNH VAN TOAN\source\repos\LAB_EF_HuynhVanToan\LAB_EF_HuynhVanToan\bin\Debug\EntityFramework.xml
+C:\Users\HUYNH VAN TOAN\source\repos\LAB_EF_HuynhVanToan\LAB_EF_HuynhVanToan\obj\Debug\LAB_EF_HuynhVanToan.csproj.AssemblyReference.cache
+C:\Users\HUYNH VAN TOAN\source\repos\LAB_EF_HuynhVanToan\LAB_EF_HuynhVanToan\obj\Debug\LAB_EF_HuynhVanToan.csproj.CoreCompileInputs.cache
+C:\Users\HUYNH VAN TOAN\source\repos\LAB_EF_HuynhVanToan\LAB_EF_HuynhVanToan\obj\Debug\LAB_EF_HuynhVanToan.csproj.CopyComplete
+C:\Users\HUYNH VAN TOAN\source\repos\LAB_EF_HuynhVanToan\LAB_EF_HuynhVanToan\obj\Debug\LAB_EF_HuynhVanToan.exe
+C:\Users\HUYNH VAN TOAN\source\repos\LAB_EF_HuynhVanToan\LAB_EF_HuynhVanToan\obj\Debug\LAB_EF_HuynhVanToan.pdb
